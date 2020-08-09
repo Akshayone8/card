@@ -1,0 +1,13 @@
+.col{
+  background: linear-gradient(to right, #232526, #414345);
+}
+.col a:hover{
+  background: linear-gradient(to right, #00d2ff, #3a7bd5);
+  border-radius:20px;
+}
+.card_8{ background: linear-gradient(to right, #36d1dc, #5b86e5);}
+
+.card_7{
+  background: linear-gradient(to right, #b24592, #f15f79); 
+  color:white;
+}
